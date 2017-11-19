@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<title>Welcome to my homepage</title>
+<body>
+<h1>Buvanazarov Javokhir</h1>
+<p>Here are some information about myself:</p>
+<p>ID:U1710046</p>
+<p>Group number:23</p>
+<p>Email:j.buvanazarov@student.inha.uz</p>
+<h2>Here are my list of hobbies and interests<h2>
+<ul  style="list-style-type:square">
+     <li>Collecting ancient pictures</li>
+	 <li>Playing football</li>
+	 <li>Reading the books which are related to the phsycology of humanity</li>
+	 <li>Travelling all over the world</li>
+	 <li>Observe the professional ability of soccers</li>
+</ul">
+</body>
+</html>
